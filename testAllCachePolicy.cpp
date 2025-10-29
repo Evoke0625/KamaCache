@@ -5,6 +5,8 @@
 #include <iomanip>
 #include <random>
 #include <algorithm>
+#include <array>
+#include <string>
 
 #include "KICachePolicy.h"
 #include "KLfuCache.h"
